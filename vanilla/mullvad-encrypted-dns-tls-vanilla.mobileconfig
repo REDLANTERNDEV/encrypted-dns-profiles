@@ -11,22 +11,22 @@
 				<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2a07:e340::5</string>
-					<string>194.242.2.5</string>
+					<string>2a07:e340::2</string>
+					<string>194.242.2.2</string>
 				</array>
 				<key>ServerName</key>
-				<string>extended.dns.mullvad.net</string>
+				<string>dns.mullvad.net</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Mullvad Encrypted DNS extended (TLS)</string>
+			<string>Mullvad Encrypted DNS (TLS)</string>
 			<key>PayloadDisplayName</key>
-			<string>Mullvad Encrypted DNS extended (TLS)</string>
+			<string>Mullvad Encrypted DNS (TLS)</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.66E05FC7-6754-783E-9389-36143F37E760</string>
+			<string>com.apple.dnsSettings.managed.FFAEDE9B-DA61-9F0A-F826-704E25EDC6EB</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>66E05FC7-6754-783E-9389-36143F37E760</string>
+			<string>FFAEDE9B-DA61-9F0A-F826-704E25EDC6EB</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -34,17 +34,17 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Mullvad Encrypted DNS extended (TLS)</string>
+	<string>Mullvad Encrypted DNS (TLS)</string>
 	<key>PayloadDisplayName</key>
-	<string>Mullvad Encrypted DNS extended (TLS)</string>
+	<string>Mullvad Encrypted DNS (TLS)</string>
 	<key>PayloadIdentifier</key>
-	<string>net.mullvad.encrypted.dns.tls.extended</string>
+	<string>net.mullvad.encrypted.dns.tls.vanilla</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>D700F1E1-16B2-6FAB-0A77-217A4BF39DC0</string>
+	<string>C361E81D-2FDD-3C1D-BF94-1645E5B23626</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadScope</key>
